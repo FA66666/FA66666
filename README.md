@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hey there! 
 
-<!--
-**FA66666/FA66666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me:**  
+- 💻 A little Experienced in **Vue.js, Node.js, Express, HTML, CSS**  
+- 📚 Always learning new things, currently diving into **Electron**  
+- 🌱 Love open-source & sharing knowledge  
 
-Here are some ideas to get you started:
+🛠 **Tech Stack:**  
+- 🖥️ Frontend: Vue.js, HTML, CSS, JavaScript,d3.js 
+- ⚙️ Backend: Node.js, Express  
+- 🛢️ Database:  MySQL  
+- 📡 API & Tools: Axios, Git  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 *Code. Create. Innovate.* 🚀 
