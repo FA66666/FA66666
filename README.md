@@ -2,7 +2,7 @@
 
 🚀 **About Me:**  
 - 💻 A little Experienced in **Vue.js, Node.js, Express, HTML, CSS**  
-- 📚 Always learning new things, currently diving into **Electron** and  **d3.js**  
+- 📚 Always learning new things, currently diving into **Electron, Vue.js** and  **d3.js**  
 - 🌱 Love open-source & sharing knowledge  
 
 🛠 **Tech Stack:**  
